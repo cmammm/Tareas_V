@@ -1,0 +1,10 @@
+body{background-color: LavenderBlush;}
+p{color: PaleVioletRed;}
+
+/*Selector de clase con color de letra y tamaño de letra, segundo parrafo class="" */
+
+.brillantina{color:HotPink; font-size: 50px;}
+
+h1{color:rgba(125,96,0,0.1); text-align: center;}
+h2{color:rgb(221, 192, 184);text-align: center;}
+h3{color:hsl(24, 59%, 28%);text-align: center}
