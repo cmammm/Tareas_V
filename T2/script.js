@@ -1,0 +1,8 @@
+let p1 = "Las tecnologías web como HTML, CSS y JavaScript son importantes en mi formación artistica y academica, ya que me permiten comprender cómo se estructuran y presentan las experiencias digitales en la web. HTML establece la estructura básica de una página, CSS le da estilo y forma, y JavaScript agrega interactividad, lo que crea una base sólida para el desarrollo de sitios web funcionales y atractivos. Sin embargo, estas herramientas vistas desde otra perspectiva, me doy cuenta de que, aunque son esenciales, también presentan ciertas limitaciones. La necesidad de asegurar la compatibilidad entre distintos navegadores y dispositivos puede resultar tediosa, y a veces las diferencias en la interpretación del código entre plataformas generan desafíos adicionales.";
+let p2 = "A pesar de esto, considero que estas tecnologías tienen un enorme potencial en mi trabajo creativo. Me permiten desarrollar experiencias interactivas y visualmente dinámicas, lo que abre un abanico de posibilidades para la creación de interfaces atractivas y funcionales. En particular, JavaScript ofrece oportunidades para la construcción de elementos interactivos complejos, mientras que CSS facilita la creación de diseños visuales sin necesidad de recurrir a imágenes pesadas. Sin embargo, también siento que la complejidad de estas herramientas puede ser un obstáculo, ya que requieren un aprendizaje constante y adaptación a nuevas actualizaciones. Esto me hace pensar si el enfoque tradicional sigue siendo el más adecuado o si existirán alternativas más accesibles y flexibles para los desarrolladores y diseñadores creativos.";
+
+document.getElementById('parr1').innerHTML=p1;
+document.getElementById('parr2').innerHTML=p2;
+
+console.log(p1.length);
+console.log(p2.length);
