@@ -1,0 +1,15 @@
+let p1 = "Cuando eschucho la canción me imagino una paleta de colores oscuros con el color rojo para hacer contraste, en esta imagen la combinación del rojo intenso con el brillo del líquido le da un toque surrealista y evocador, similar a la forma en que la voz de Chris flota sobre la instrumentación, como si estuviera atrapada en un sueño o un recuerdo borroso.";
+let p2 = "Siempre me imagino un castillo cuando escucho las canciones de este wey, me dan muchas vibes de un espacio solitario y majestuoso, que simboliza tanto la grandeza como la decadencia, igual que la sensación de pérdida y anhelo que transmiten las canciones. De hecho en su ultimo albúm el esta vestido como un caballero";
+let p3 = "Siento que la canción transmite un aire de romanticismo y tragedia. Como dije, la iluminación tenue y los colores profundos evocan una sensación de nostalgia y pasión contenida, elementos que también se reflejan en la instrumentación de la canción, donde la guitarra juega un papel clave en la atmósfera dramática.";
+
+let pi = "Hablemos de ESTA canción porque es una de mis favoritas. Esta joya la descubrí un día que estaba escuchando nuevas canciones, y de repente, al terminar la que había puesto, el algoritmo hizo su magia y me la recomendó. Desde el inicio me atrapó, y para cuando terminó, ya estaba completamente enamorada. La canción me dio todo: una voz increíble, una melodía hermosa, un instrumental que wtf, un solo de guitarra espectacular, SIRVIÓ completamente. Después de eso necesitaba escuchar más, lo que me llevó a la discografía del artista y, sin darme cuenta, se convirtió en uno de mis favoritos. Sus canciones se fueron ganando un lugar especial en mis playlists. Se volvió uno de mis artistas más escuchados en Spotify y YouTube Music, al punto de que prácticamente no pasaba un día sin poner alguna de sus canciones, yo lo amaba. Obviamente lo sigo escuchando y aún me gusta muchísimo. No ha perdido su lugar en mi Recap el cual según; fui del 0.4% de personas que más lo escucharon en 2024. Pero se empezó a volver viral en TikTok y siento que algo cambió. No es que haya dejado de gustarme, pero se perdió un poco la magia y ese sentimiento que me daba escuchar sus canciones. Antes sentía que era mi pequeño tesoro musical, algo que pocos conocían y que podía disfrutar como un secreto bien guardado. Ahora, al escucharlo en todas partes, en trends y videos, ya no se siente igual. Pero así son las cosas con la música: crece, se transforma, llega a más personas… y aunque a veces duela perder esa exclusividad, también es bonito ver que más gente lo difrute.";
+let po = "Esta es la canción por la que se hizo viral en tiktok."
+
+document.getElementById('parrafointo').innerHTML=pi;
+document.getElementById('parrafoout').innerHTML=po;
+document.getElementById('parrafo1').innerHTML=p1;
+document.getElementById('parrafo2').innerHTML=p2;
+document.getElementById('parrafo3').innerHTML=p3;
+
+
+console.log("Intento de empezar un Blog");
