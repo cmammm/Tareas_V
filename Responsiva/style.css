@@ -1,0 +1,11 @@
+*{box-sizing: border-box;}
+.uno {background-color: hotpink;font-size: 20px;padding: 1px;float: left;width: 25%;}
+.dos {background-color: rgb(117, 49, 83);font-size: 20px;padding: 1px;float: left;width: 25%;}
+.tres {background-color: rgb(235, 198, 217);font-size: 20px;padding: 1px;float: left;width: 25%;}
+.cuatro {background-color: rgb(165, 128, 147);font-size: 20px;padding: 1px;float: left;width: 25%;}
+
+@media screen and (max-width:800px) {
+    .uno, .dos, .tres, .cuatro{
+        width: 100%;
+    }
+}
