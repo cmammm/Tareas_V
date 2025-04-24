@@ -1,0 +1,40 @@
+body {
+    background-color: #282823;
+  }
+  
+  .titulo {
+    text-align: center;
+    padding: 50px;
+  }
+  
+  .logo {
+    max-width: 300px;
+    width: 100%;
+    height: auto;
+  }
+  
+  .media-contenedor {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 40px;
+    margin: 30px auto;
+    flex-wrap: wrap;
+  }
+  
+  video {
+    width: 240px;
+    height: 320px;
+    object-fit: cover;
+    border-radius: 20px;
+    border: 15px solid #F5E8B6;
+  }
+  
+  .imagen-lateral {
+    width: 480px;
+    height: auto;
+    border-radius: 10px;
+  }   
+  
+
+  
